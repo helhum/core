@@ -40,9 +40,6 @@
 		"ext-zip": "",
 		"ext-mysqli": ""
 	},
-	"conflict": {
-		"typo3/cms": "*"
-	},
 	"replace": {
 		"core": "*"
 	},
